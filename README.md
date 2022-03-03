@@ -12,7 +12,7 @@ win the game. At each turn, some sound effets are added too.
 
 
 # TABLE OF CONTENTS
-[ DESCRIPTION](#DESCRIPTION)
+[ Description](#Description)
 
 [INSTALLATION](#INSTALLATION)
 
@@ -26,4 +26,38 @@ win the game. At each turn, some sound effets are added too.
 
 [GIT_HUB-REPOSITORY](#GIT_HUB-REPOSITORY)
 
+[GIT_HUB-Deployed-Link](#GIT_HUB-Deployed-Link)
 
+
+
+
+
+## TEXT-EDITOR
+**Vs-code**
+
+## PROGRAMMING-LANGUAGE
+
+CSS
+
+JAVASCRIPT
+
+HTML via HANDLEBARS
+
+
+# RESOURCES-REFERRED
+[Tutorial](https://www.youtube.com/watch?v=B3pmT7Cpi24&t=303s)
+
+[MVC](https://www.youtube.com/watch?v=sSLGP-_2gOI)
+
+
+
+
+
+# SCREENSHOT
+![SCREENSHOT](tictactoe.png)
+
+# GIT_HUB-REPOSITORY
+[GIT-HUB](https://github.com/nehreetkaur/Javascript-game)
+
+# GIT_HUB-Deployed-Link
+[GIT-HUB](https://nehreetkaur.github.io/Javascript-game/)
