@@ -2,7 +2,7 @@
 
 **Developed** a very fun game application based on on very popular
 game **Tic Tac Toe**.
-In this, User can play and added some sound effects as well for more happy experience.
+In this, User can play and added some sound effects as well for more happy experience.My main motivation to build this game is to have solid foundation for **Javascript Skills** .
 
 # Description
 In this application, user can play by putting X and 0 in the
@@ -47,7 +47,7 @@ HTML via HANDLEBARS
 # RESOURCES-REFERRED
 [Tutorial](https://www.youtube.com/watch?v=B3pmT7Cpi24&t=303s)
 
-[MVC](https://www.youtube.com/watch?v=sSLGP-_2gOI)
+[Tutorial](https://www.youtube.com/watch?v=sSLGP-_2gOI)
 
 
 
