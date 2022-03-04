@@ -41,13 +41,16 @@ CSS
 
 JAVASCRIPT
 
-HTML via HANDLEBARS
+HTML 
 
 
 # RESOURCES-REFERRED
+
+[MDN-Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [Tutorial](https://www.youtube.com/watch?v=B3pmT7Cpi24&t=303s)
 
 [Tutorial](https://www.youtube.com/watch?v=sSLGP-_2gOI)
+
 
 
 
